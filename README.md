@@ -20,6 +20,7 @@
   * [![Angular][Angular.io]][Angular-url]
   * [![Next][Next.js]][Next-url]
   * [![NestJS][NestJS.io]][NestJS-url]
+    
 - 🧑‍💻 I love using the software as a solution for every `problem`.
 - 🧑‍🎓 Master's student in Artificial Intelligence and Computer Engineering at the Faculty of Science and Technology of Marrakech.
 - 🤓 Always `learning new things`.
@@ -29,17 +30,20 @@
 
 ### Programming Languages & Frameworks
 
-- **Frontend:**
+- **Frontend:** 
   * [![React][React.js]][React-url]
   * [![Next.js][Next.js]][Next-url]
   * [![Angular][Angular.io]][Angular-url]
-  * HTML, CSS, JavaScript, TypeScript
+  * [![HTML][HTML]][HTML-url]
+  * [![CSS][CSS]][CSS-url]
+  * [![JavaScript][JavaScript]][JavaScript-url]
+  * [![TypeScript][TypeScript]][TypeScript-url]
 
 - **Backend:** 
   * [![Node.js][Node.js]][Node-url]
   * [![Express][Express.js]][Express-url]
-  * Java/Spring Boot
-  * Flask
+  * [![Java/Spring Boot][Spring.io]][Spring-url]
+  * [![Flask][Flask.io]][Flask-url]
 
 - **Mobile:** 
   * Kotlin
@@ -47,21 +51,29 @@
   * [![React Native][React-Native.io]][React-Native-url]
 
 - **Databases:** 
-  * SQL, PLSQL, MySQL
+  * [![SQL][SQL]][SQL-url]
+  * [![PLSQL][PLSQL]][PLSQL-url]
   * [![MongoDB][MongoDB.com]][MongoDB-url]
-  * Big Data (Hadoop, Spark)
 
 - **Machine Learning & AI:** 
-  * Python
+  * [![Python][Python]][Python-url]
   * [![TensorFlow][TensorFlow.io]][TensorFlow-url]
   * [![scikit-learn][scikit-learn.io]][scikit-learn-url]
-  * NLP
+  * [![NLP][NLP.io]][NLP-url]
 
 
 **Tools & Technologies:**
-- **DevOps:** Docker, Git & GitHub, Gitlab
+- **DevOps:** 
+  * [![Docker][Docker.io]][Docker-url]
+  * [![Git][Git.io]][Git-url] & [![GitHub][GitHub.io]][GitHub-url]
+  * [![Gitlab][Gitlab.io]][Gitlab-url]
+    
 - **Testing:** Jest, SuperTest, JUnit, e2e
-- **Operating Systems:** Linux, Windows
+  
+- **Operating Systems:** 
+  * [![Linux][Linux.io]][Linux-url]
+  * [![Windows][Windows.io]][Windows-url]
+    
 - **Others:** Power BI, ETL, Data Visualization, Web Scraping
 
 ### 📚 Education
@@ -128,6 +140,41 @@
 [TensorFlow-url]: https://www.tensorflow.org/
 [scikit-learn.io]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 [scikit-learn-url]: https://scikit-learn.org/
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[Flask.io]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/
+[NLP.io]: https://img.shields.io/badge/NLP-2088FF?style=for-the-badge&logo=natural-language-processing&logoColor=white
+[NLP-url]: https://en.wikipedia.org/wiki/Natural_language_processing
+[Kotlin.io]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
+[Kotlin-url]: https://kotlinlang.org/
+[SQL]: https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white
+[SQL-url]: https://en.wikipedia.org/wiki/SQL
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[Docker.io]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+[Git.io]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com/
+[GitHub.io]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+[Gitlab.io]: https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
+[Gitlab-url]: https://about.gitlab.com/
+[Linux.io]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Linux-url]: https://www.linux.org/
+[Windows.io]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[Windows-url]: https://www.microsoft.com/en-us/windows
+
+
+
 
 
 
