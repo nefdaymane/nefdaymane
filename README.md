@@ -172,6 +172,14 @@
 [Linux-url]: https://www.linux.org/
 [Windows.io]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [Windows-url]: https://www.microsoft.com/en-us/windows
+[Spring.io]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[Spring-url]: https://spring.io/
+[Flask.io]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/
+[Nest.js]: https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+[Nest-url]: https://nestjs.com/
+[Java.io]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/
 
 
 
