@@ -11,6 +11,7 @@
 </div>
 
 - 🔭 I’m currently working on **MERN Stack, SpringBoot/Angular, Next.JS & Nest.JS**
+  
   * [![React][React.js]][React-url]
   * [![Node.js][Node.js]][Node-url]
   * [![Express][Express.js]][Express-url]
@@ -26,12 +27,36 @@
 
 ### 🛠️ My Technical Skills
 
-**Programming Languages & Frameworks:**
-- **Frontend:** ReactJS, NextJS, Angular, HTML, CSS, JavaScript, TypeScript
-- **Backend:** NodeJS, ExpressJS, Java/Spring Boot, Flask
-- **Mobile:** Kotlin, Dart & Flutter, React Native
-- **Databases:** SQL, PLSQL, MySQL, MongoDB, Big Data (Hadoop, Spark)
-- **Machine Learning & AI:** Python, TensorFlow, scikit-learn, NLP
+### Programming Languages & Frameworks
+
+- **Frontend:**
+  * [![React][React.js]][React-url]
+  * [![Next.js][Next.js]][Next-url]
+  * [![Angular][Angular.io]][Angular-url]
+  * HTML, CSS, JavaScript, TypeScript
+
+- **Backend:** 
+  * [![Node.js][Node.js]][Node-url]
+  * [![Express][Express.js]][Express-url]
+  * Java/Spring Boot
+  * Flask
+
+- **Mobile:** 
+  * Kotlin
+  * [![Flutter][Flutter.io]][Flutter-url]
+  * [![React Native][React-Native.io]][React-Native-url]
+
+- **Databases:** 
+  * SQL, PLSQL, MySQL
+  * [![MongoDB][MongoDB.com]][MongoDB-url]
+  * Big Data (Hadoop, Spark)
+
+- **Machine Learning & AI:** 
+  * Python
+  * [![TensorFlow][TensorFlow.io]][TensorFlow-url]
+  * [![scikit-learn][scikit-learn.io]][scikit-learn-url]
+  * NLP
+
 
 **Tools & Technologies:**
 - **DevOps:** Docker, Git & GitHub, Gitlab
@@ -85,19 +110,24 @@
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
+[Flutter.io]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://flutter.dev/
+[React-Native.io]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-Native-url]: https://reactnative.dev/
 [MongoDB.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
-[Spring.io]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-[Spring-url]: https://spring.io/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[NestJS.io]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-[NestJS-url]: https://nestjs.com/
+[TensorFlow.io]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+[scikit-learn.io]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-learn-url]: https://scikit-learn.org/
+
 
 
