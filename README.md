@@ -46,13 +46,13 @@
   * [![Flask][Flask.io]][Flask-url]
 
 - **Mobile:** 
-  * Kotlin
+  * [![Kotlin][Kotlin.io]][Kotlin-url]
   * [![Flutter][Flutter.io]][Flutter-url]
   * [![React Native][React-Native.io]][React-Native-url]
 
 - **Databases:** 
   * [![SQL][SQL]][SQL-url]
-  * [![PLSQL][PLSQL]][PLSQL-url]
+  * [![MySQL][MySQL]][MySQL-url]
   * [![MongoDB][MongoDB.com]][MongoDB-url]
 
 - **Machine Learning & AI:** 
@@ -176,8 +176,8 @@
 [Spring-url]: https://spring.io/
 [Flask.io]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/
-[Nest.js]: https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-[Nest-url]: https://nestjs.com/
+[NestJS.io]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+[NestJS-url]: https://nestjs.com/
 [Java.io]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
 
