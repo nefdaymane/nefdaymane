@@ -51,12 +51,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nodejs,express,nestjs,java,spring,mysql,mongo,next,react,angular,docker,c,py,flask,linux,bash,ubuntu,postman,idea,vscode,git,github,gitlab,kotlin,flutter,jest)](#)
 
-<div style="width: 50%; margin: 0 auto;">
-  <a href="https://gitroll.io/profile/u06VRL3FGfJSyGMMoSNRc91GwuDg1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/u06VRL3FGfJSyGMMoSNRc91GwuDg1" alt="GitRoll Profile Badge"/>
-  </a>
-</div>
-
 <div align="center">
  <h2>Contact me 🤝</h2>
 </div>
