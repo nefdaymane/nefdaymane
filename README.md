@@ -1,188 +1,76 @@
-<!-- PROFILE HEADER -->
-<div align="center">
- <h1>Hi, I'm Aymane Nefdaoui 🙋‍♂️</h1>
-</div>
-
-#### Welcome to my GitHub profile! I'm Aymane Nefdaoui, a dedicated coder interested in the ever-evolving tech landscape. With a solid software development and artificial intelligence foundation, I thrive on solving intricate problems and crafting cutting-edge solutions. A relentless curiosity and a passion for continuous learning fuel my journey. Whether it's through innovative projects or collaborative endeavors, I'm excited to connect and build something extraordinary together!
+# Aymane Nefdaoui
 
 <div align="center">
+  <h2>AI & ML Specialist | Full Stack, DevOps & Mobile Developer</h2>
   <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" alt="Profile Image" width="150">
-  <h2>About me</h2>
 </div>
 
-- 🔭 I’m currently working on **MERN Stack, SpringBoot/Angular, Next.JS & Nest.JS**
-  
-  * [![React][React.js]][React-url]
-  * [![Node.js][Node.js]][Node-url]
-  * [![Express][Express.js]][Express-url]
-  * [![MongoDB][MongoDB.com]][MongoDB-url]
-  * [![Spring][Spring.io]][Spring-url]
-  * [![Angular][Angular.io]][Angular-url]
-  * [![Next][Next.js]][Next-url]
-  * [![NestJS][NestJS.io]][NestJS-url]
-    
-- 🧑‍💻 I love using the software as a solution for every `problem`.
-- 🧑‍🎓 Master's student in Artificial Intelligence and Computer Engineering at the Faculty of Science and Technology of Marrakech.
-- 🤓 Always `learning new things`.
-- 📫 Feel free to reach me out **[nefdaouiaymane03@gmail.com](mailto:nefdaouiaymane03@gmail.com)** or call me at **+212 7 73 76 76 02**.
+## About Me
 
-### 🛠️ My Technical Skills
+I'm a Master's student in Artificial Intelligence and Computer Engineering with expertise in multiple domains. My skills span advanced AI techniques (ML, DL, RL, NLP, LLMs), modern JavaScript development (MERN Stack, Next.js, Nest.js), DevOps practices, and cross-platform mobile development. I bring a comprehensive skill set to deliver end-to-end solutions from concept to deployment.
 
-### Programming Languages & Frameworks
+- 🧠 **AI Researcher** - Working with ML/DL, RL, NLP and LLMs
+- 💻 **MERN Stack Developer** - Building full-stack JavaScript applications
+- 🚀 **DevOps Engineer** - Implementing CI/CD pipelines with GitHub Actions, Docker, GitLab, and AWS
+- 📱 **Mobile Developer** - Creating cross-platform apps with Flutter and React Native
 
-- **Frontend:** 
-  * [![React][React.js]][React-url]
-  * [![Next.js][Next.js]][Next-url]
-  * [![Angular][Angular.io]][Angular-url]
-  * [![HTML][HTML]][HTML-url]
-  * [![CSS][CSS]][CSS-url]
-  * [![JavaScript][JavaScript]][JavaScript-url]
-  * [![TypeScript][TypeScript]][TypeScript-url]
+## Technical Expertise
 
-- **Backend:** 
-  * [![Node.js][Node.js]][Node-url]
-  * [![Express][Express.js]][Express-url]
-  * [![Java/Spring Boot][Spring.io]][Spring-url]
-  * [![Flask][Flask.io]][Flask-url]
+### AI & Machine Learning
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![NLP](https://img.shields.io/badge/NLP-2088FF?style=for-the-badge&logo=natural-language-processing&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![LLMs](https://img.shields.io/badge/Large_Language_Models-7A43B6?style=for-the-badge&logo=llm&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model)
 
-- **Mobile:** 
-  * [![Kotlin][Kotlin.io]][Kotlin-url]
-  * [![Flutter][Flutter.io]][Flutter-url]
-  * [![React Native][React-Native.io]][React-Native-url]
+### Web Development
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-- **Databases:** 
-  * [![SQL][SQL]][SQL-url]
-  * [![MySQL][MySQL]][MySQL-url]
-  * [![MongoDB][MongoDB.com]][MongoDB-url]
+### DevOps
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-- **Machine Learning & AI:** 
-  * [![Python][Python]][Python-url]
-  * [![TensorFlow][TensorFlow.io]][TensorFlow-url]
-  * [![scikit-learn][scikit-learn.io]][scikit-learn-url]
-  * [![NLP][NLP.io]][NLP-url]
+### Mobile Development
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
+## Current Projects
 
-**Tools & Technologies:**
-- **DevOps:** 
-  * [![Docker][Docker.io]][Docker-url]
-  * [![Git][Git.io]][Git-url] & [![GitHub][GitHub.io]][GitHub-url]
-  * [![Gitlab][Gitlab.io]][Gitlab-url]
-    
-- **Testing:** Jest, SuperTest, JUnit, e2e
-  
-- **Operating Systems:** 
-  * [![Linux][Linux.io]][Linux-url]
-  * [![Windows][Windows.io]][Windows-url]
-    
-- **Others:** Power BI, ETL, Data Visualization, Web Scraping
+- 🤖 **AI-Powered Applications**: Integrating ML/LLM models with modern web and mobile interfaces
+- 🚀 **CI/CD Pipelines**: Implementing automated DevOps workflows with GitHub Actions and AWS
+- 📱 **Cross-Platform Mobile Apps**: Developing Flutter and React Native applications with AI capabilities
+- 🌐 **Scalable MERN Solutions**: Building full-stack applications with Next.js and Nest.js
+- ☁️ **Cloud-Native Architecture**: Designing containerized applications for cloud deployment
 
-### 📚 Education
+## Education
 
 - **Master's in Artificial Intelligence and Computer Engineering** - Faculty of Science and Technology, Marrakech (2023 - 2025)
-- **Bachelor of Science and Technology in Distributed Information Systems** - Faculty of Science and Technology, Marrakech (2022 - 2023)
+- **Bachelor of Science in Distributed Information Systems** - Faculty of Science and Technology, Marrakech (2022 - 2023)
 - **University Degree in Mathematics, Computer Science, Physics, and Chemistry** - Faculty of Science and Technology, Marrakech (2020 - 2022)
-- **High School Diploma in Mathematical Sciences B, French Option** -Lamrani High School (2019 - 2020)
 
-### 🌟 Interests
+## Technical Skills Showcase
 
-- **Technology & Innovation:** Always exploring the latest in tech and how it can solve real-world problems.
-- **Personal Development:** Continuously improving my skills and knowledge.
-- **Sports & Travel:** Staying active and exploring new places.
-- **E-Learning:** Developing educational tools and resources for others.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nodejs,express,nestjs,react,next,mongo,docker,py,tensorflow,git,github,gitlab,aws,flutter,dart,vscode)](#)
+
+## Connect With Me
 
 <div align="center">
- <h2>🛠️ My Stack</h2>
-</div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nodejs,express,nestjs,java,spring,mysql,mongo,next,react,angular,docker,c,py,flask,linux,bash,ubuntu,postman,idea,vscode,git,github,gitlab,kotlin,flutter,jest)](#)
-
-<div align="center">
- <h2>Contact me 🤝</h2>
-</div>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aymane-nefdaoui-9a6a9921a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nefdaouiaymane03@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-</p>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/
-[Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-[Express-url]: https://expressjs.com/
-[Flutter.io]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-[Flutter-url]: https://flutter.dev/
-[React-Native.io]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-Native-url]: https://reactnative.dev/
-[MongoDB.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB-url]: https://www.mongodb.com/
-[TensorFlow.io]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-[TensorFlow-url]: https://www.tensorflow.org/
-[scikit-learn.io]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-learn-url]: https://scikit-learn.org/
-[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Flask.io]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/
-[NLP.io]: https://img.shields.io/badge/NLP-2088FF?style=for-the-badge&logo=natural-language-processing&logoColor=white
-[NLP-url]: https://en.wikipedia.org/wiki/Natural_language_processing
-[Kotlin.io]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
-[Kotlin-url]: https://kotlinlang.org/
-[SQL]: https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white
-[SQL-url]: https://en.wikipedia.org/wiki/SQL
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com/
-[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://www.python.org/
-[Docker.io]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[Git.io]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[Git-url]: https://git-scm.com/
-[GitHub.io]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com/
-[Gitlab.io]: https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
-[Gitlab-url]: https://about.gitlab.com/
-[Linux.io]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[Linux-url]: https://www.linux.org/
-[Windows.io]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[Windows-url]: https://www.microsoft.com/en-us/windows
-[Spring.io]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-[Spring-url]: https://spring.io/
-[Flask.io]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/
-[NestJS.io]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-[NestJS-url]: https://nestjs.com/
-[Java.io]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
-[Java-url]: https://www.java.com/
-
-
-
-
-
-
+📫 **Contact**: [nefdaouiaymane03@gmail.com](mailto:nefdaouiaymane03@gmail.com) | ☎️ **Phone**: +212 7 73 76 76 02
